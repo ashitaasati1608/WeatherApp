@@ -33,7 +33,7 @@ object NetworkModule {
     fun provideRetrofit(okHttpClient: OkHttpClient, BASE_URL: String): Retrofit =
         Retrofit.Builder()
             .addConverterFactory(MoshiConverterFactory.create())
-            .baseUrl("https://api.openweathermap.org/")
+            .baseUrl(BASE_URL)
             .client(okHttpClient)
             .build()
 
