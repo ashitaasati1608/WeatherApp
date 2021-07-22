@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Standard App Colors-->
+    <color name="colorPrimary">@color/chocolate_brown</color>
+    <color name="colorPrimaryDark">@color/very_dark_brown</color>
+    <color name="colorAccent">@color/greyish_brown</color>
+    <color name="background">@color/white</color>
+    <color name="toolbar_background">@color/background</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="opacity_4_percent">#0AFFFFFF</color>
+    <color name="opacity_underlay">#72100500</color>
+    <color name="tab_layout_background">@color/white</color>
+    <color name="row_ripple_color">#ededed</color>
+    <color name="card_border_stroke">#d5d5d5</color>
+    <color name="colorPrimaryDisabled">#634f47</color>
+
+    <!--    Text Colors-->
+    <color name="text_color_default">@color/colorPrimary</color>
+    <color name="text_color_inverse">@color/white</color>
+    <color name="text_color_light">@color/greyish_brown</color>
+    <color name="text_color_lighter">@color/light_brown</color>
+    <color name="text_color_button_flat">@color/ada_gold</color>
+    <color name="text_color_button_flat_pressed">#cca76721</color>
+    <color name="text_color_error">@color/alert_red</color>
+    <color name="text_color_grey">@color/dark_gray</color>
+
+    <!--   Text Underline Color-->
+    <color name="text_underline_color">@color/colorPrimary</color>
+
+    <!--  Text Input Colors New-->
+    <color name="text_input_color_helper">@color/greyish_brown</color>
+    <color name="text_input_color_hint">@color/greyish_brown</color>
+    <color name="text_input_color_placeholder">@color/greyish_brown</color>
+    <color name="text_input_color_default">@color/colorPrimary</color>
+
+    <!--    Toolbar Colors-->
+    <color name="toolbar_text_color">@color/chocolate_brown</color>
+
+    <!--    Button Colors-->
+    <color name="btn_color_default">@color/colorPrimary</color>
+    <color name="btn_color_default_disabled">@color/light_grey</color>
+    <color name="btn_color_inverse">@color/background</color>
+    <color name="btn_color_inverse_disabled">#dddddd</color>
+    <color name="btn_color_transparent">@color/transparent</color>
+    <color name="btn_color_gray">@color/light_grey</color>
+</resources>

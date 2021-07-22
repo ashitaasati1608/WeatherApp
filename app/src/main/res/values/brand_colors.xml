@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  These colors should ONLY be used in the colors.xml and not directly in the app   -->
+
+    <!--    Brown   -->
+    <color name="very_dark_brown">#1b0800</color>
+    <color name="chocolate_brown">#451400</color>
+    <color name="greyish_brown">#786259</color>
+    <color name="light_brown">#8c766d</color>
+
+    <!--    Gold    -->
+    <color name="poo_gold">#8e5d04</color>
+    <color name="ada_gold">#a76721</color>
+    <color name="mustard_gold">#b68207</color>
+    <color name="sand_gold">#debf79</color>
+
+    <!--    Tan -->
+    <color name="dark_tan">#c3b4a6</color>
+    <color name="warm_tan">#d4cbc7</color>
+    <color name="light_tan">#dfd9d3</color>
+    <color name="skin_tan">#f7f2ed</color>
+
+    <!--    Green   -->
+    <color name="avocado_green">#90a035</color>
+    <color name="ada_green">#6e7c1b</color>
+
+    <!--    Red -->
+    <color name="muted_red">#ad2118</color>
+    <color name="alert_red">#d0021b</color>
+
+    <!--    Grey   -->
+    <color name="light_grey">#f2f2f2</color>
+    <color name="lighter_gray">#e3ddda</color>
+    <color name="dark_gray">#767676</color>
+</resources>

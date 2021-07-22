@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ToolbarTheme" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlNormal">@color/colorPrimary</item>
+        <item name="android:background">@color/background</item>
+        <item name="android:actionMenuTextColor">@color/selector_text_button_flat</item>
+        <item name="android:actionMenuTextAppearance">@style/MenuTextStyle</item>
+    </style>
+
+    <style name="MenuTextStyle">
+        <item name="android:textSize">@dimen/btn_text_size_small</item>
+        <item name="fontFamily">@font/gothamhft_medium</item>
+        <item name="textAllCaps">true</item>
+    </style>
+
+    <style name="TextToolbarContent" parent="Text.Headline.One.Small">
+        <item name="android:gravity">center</item>
+    </style>
+
+</resources>

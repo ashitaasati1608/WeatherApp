@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text Size   -->
+    <dimen name="text_size_headline_one_extra_extra_large">56sp</dimen>
+    <dimen name="text_size_headline_one_extra_large">34sp</dimen>
+    <dimen name="text_size_headline_one_large">28sp</dimen>
+    <dimen name="text_size_headline_one_medium">24sp</dimen>
+    <dimen name="text_size_headline_one_small">20sp</dimen>
+    <dimen name="text_size_headline_one_extra_small">18sp</dimen>
+    <dimen name="text_size_headline_one_xx_small">16sp</dimen>
+    <dimen name="text_size_headline_one_xxx_small">14sp</dimen>
+    <dimen name="text_size_headline_two_large">18sp</dimen>
+    <dimen name="text_size_headline_two_small">16sp</dimen>
+    <dimen name="text_size_headline_two_xsmall">14sp</dimen>
+    <dimen name="text_size_headline_two_xxsmall">12sp</dimen>
+    <dimen name="text_size_headline_two_medium">24sp</dimen>
+    <dimen name="text_size_headline_two_extra_small">14sp</dimen>
+    <dimen name="text_size_headline_three_small">16sp</dimen>
+    <dimen name="text_size_headline_three_large">18sp</dimen>
+    <dimen name="text_size_body_large">20sp</dimen>
+    <dimen name="text_size_body_medium">18sp</dimen>
+    <dimen name="text_size_body_default">16sp</dimen>
+    <dimen name="text_size_body_small">14sp</dimen>
+    <dimen name="text_size_body_xsmall">13sp</dimen>
+    <dimen name="text_size_body_xxsmall">12sp</dimen>
+    <dimen name="text_line_height_body_small">20sp</dimen>
+    <dimen name="dialog_line_height_title">26sp</dimen>
+
+    <!-- Text Underline margin   -->
+    <dimen name="text_underline_margin">-5dp</dimen>
+    <dimen name="text_underline_stroke_width">1dp</dimen>
+
+    <!-- Global   -->
+    <dimen name="dimen_zero">0dp</dimen>
+    <dimen name="min_height_input_text">50dp</dimen>
+    <dimen name="btn_action_min_width">194dp</dimen>
+    <dimen name="btn_action_narrow_min_width">142dp</dimen>
+    <dimen name="elevation_above_card">2dp</dimen>
+    <dimen name="image_loading_height">90dp</dimen>
+    <dimen name="image_inline_loading_height">28dp</dimen>
+    <dimen name="default_toolbar_elevation">0dp</dimen>
+    <dimen name="spacing_margin">20dp</dimen>
+    <dimen name="spacing_standard_one_eighth">2dp</dimen>
+    <dimen name="spacing_standard_one_fourth">4dp</dimen>
+    <dimen name="spacing_standard_one_sixth">6dp</dimen>
+    <dimen name="spacing_standard_half">8dp</dimen>
+    <dimen name="spacing_extra_small">10dp</dimen>
+    <dimen name="spacing_small">12dp</dimen>
+    <dimen name="spacing_standard">16dp</dimen>
+    <dimen name="spacing_large">20dp</dimen>
+    <dimen name="spacing_xx_large">24dp</dimen>
+    <dimen name="spacing_xxx_large">32dp</dimen>
+    <dimen name="spacing_xxxx_large">40dp</dimen>
+    <dimen name="spacing_xxxxx_large">48dp</dimen>
+    <dimen name="spacing_xxxxxx_large">56dp</dimen>
+    <dimen name="spacing_xxxxxxx_large">64dp</dimen>
+    <dimen name="spacing_standard_one_sixteenth">1dp</dimen>
+    <dimen name="zero_elevation">0dp</dimen>
+    <dimen name="small_elevation">1dp</dimen>
+    <dimen name="large_elevation">2dp</dimen>
+    <dimen name="x_large_elevation">3dp</dimen>
+    <dimen name="xx_large_elevation">4dp</dimen>
+    <dimen name="xxx_large_elevation">5dp</dimen>
+
+    <!--    Buttons -->
+    <dimen name="btn_height">56dp</dimen>
+    <dimen name="btn_height_large">56dp</dimen>
+    <dimen name="btn_height_medium">44dp</dimen>
+    <dimen name="btn_height_small">36dp</dimen>
+    <dimen name="btn_height_xsmall">27dp</dimen>
+    <dimen name="btn_text_size_large">16sp</dimen>
+    <dimen name="btn_text_size">14sp</dimen>
+    <dimen name="btn_text_size_small">13sp</dimen>
+    <dimen name="btn_text_size_xsmall">12sp</dimen>
+    <dimen name="btn_letter_space">0.03</dimen>
+    <dimen name="btn_line_space_large">6sp</dimen>
+    <dimen name="btn_line_space">2sp</dimen>
+    <dimen name="btn_line_space_small">1sp</dimen>
+    <dimen name="btn_image_size">32dp</dimen>
+    <dimen name="btn_image_size_small">20dp</dimen>
+    <dimen name="btn_image_padding">@dimen/spacing_standard</dimen>
+    <dimen name="btn_image_padding_small">@dimen/spacing_standard_half</dimen>
+    <dimen name="btn_stoke_width">1dp</dimen>
+    <dimen name="btn_corner_radius">90dp</dimen>
+
+    <dimen name="text_line_extra_spacing">6sp</dimen>
+    <dimen name="text_line_extra_spacing_small">6sp</dimen>
+
+</resources>

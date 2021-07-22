@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather Info</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="fetch_weather">Fetch Weather</string>
+    <string name="country_name">Country : %1$s</string>
+    <string name="temp">Temp : %1$s</string>
+    <string name="feels_like">Feels like : %1$s</string>
+    <string name="humidity">Humidity : %1$s</string>
+    <string name="weather_condition">Weather Condition : %1$s</string>
+    <string name="weather_desc">Weather Description : %1$s</string>
+    <string name="unable_to_fetch_the_weather_details">Unable to fetch the\n weather details.</string>
+</resources>
